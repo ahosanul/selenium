@@ -1,0 +1,8 @@
+[INFO ] 2020-09-14 08:28:36.776 [main] Log4jtest - This is info message
+[ERROR] 2020-09-14 08:28:36.777 [main] Log4jtest - This is Error !!!
+[WARN ] 2020-09-14 08:28:36.777 [main] Log4jtest - This is warn !!!
+[FATAL] 2020-09-14 08:28:36.778 [main] Log4jtest - This is fatal !!!
+[INFO ] 2020-09-21 14:08:34.904 [main] Log4jtest - This is info message
+[ERROR] 2020-09-21 14:08:34.906 [main] Log4jtest - This is Error !!!
+[WARN ] 2020-09-21 14:08:34.906 [main] Log4jtest - This is warn !!!
+[FATAL] 2020-09-21 14:08:34.906 [main] Log4jtest - This is fatal !!!
