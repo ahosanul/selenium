@@ -2,7 +2,7 @@ package com;
 
 import java.io.IOException;
 
-import model.Photo;
+
 
 public class Test {
 
